@@ -6,8 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: janik6n.net
     url: https://janik6n.net/
-#  - name: appdeps.com
-#    url: https://appdeps.com/
+  - name: appdeps.com
+    url: https://appdeps.com/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
