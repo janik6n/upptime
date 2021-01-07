@@ -16,5 +16,25 @@
     "timeMonth": 419,
     "timeYear": 419,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "appdeps.com",
+    "url": "https://appdeps.com/",
+    "icon": "https://favicons.githubusercontent.com/appdeps.com",
+    "slug": "appdeps-com",
+    "status": "down",
+    "uptime": "11.48%",
+    "uptimeDay": "11.48%",
+    "uptimeWeek": "11.48%",
+    "uptimeMonth": "11.48%",
+    "uptimeYear": "11.48%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-01-07": 0
+    }
   }
 ]
