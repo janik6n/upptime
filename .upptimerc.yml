@@ -4,8 +4,10 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Janik6n.net
+  - name: janik6n.net
     url: https://janik6n.net/
+  - name: appdeps.com
+    url: http://appdeps.com/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
