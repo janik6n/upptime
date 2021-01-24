@@ -4,7 +4,7 @@
     "url": "https://janik6n.net/",
     "icon": "https://favicons.githubusercontent.com/janik6n.net",
     "slug": "janik6n-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 350,
     "timeMonth": 403,
     "timeYear": 403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-24": 0
+    }
   },
   {
     "name": "appdeps.com",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-24": 65,
+      "2021-01-24": 1118,
       "2021-01-23": 1440,
       "2021-01-22": 1440,
       "2021-01-21": 1440,
