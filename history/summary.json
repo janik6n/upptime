@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/janik6n.net",
     "slug": "janik6n-net",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "99.82%",
-    "time": 409,
-    "timeDay": 510,
-    "timeWeek": 326,
-    "timeMonth": 401,
-    "timeYear": 409,
+    "uptimeYear": "99.83%",
+    "time": 407,
+    "timeDay": 324,
+    "timeWeek": 299,
+    "timeMonth": 395,
+    "timeYear": 407,
     "dailyMinutesDown": {
       "2021-01-24": 99
     }
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-15": 27,
+      "2021-02-16": 27,
+      "2021-02-15": 1440,
       "2021-02-14": 1440,
       "2021-02-13": 1440,
       "2021-02-12": 1440,
