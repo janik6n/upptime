@@ -4,18 +4,20 @@
     "url": "https://janik6n.net/",
     "icon": "https://icons.duckduckgo.com/ip3/janik6n.net.ico",
     "slug": "janik6n-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 343,
+    "time": 344,
     "timeDay": 181,
     "timeWeek": 401,
     "timeMonth": 466,
     "timeYear": 359,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-28": 0
+    }
   },
   {
     "name": "appdeps.com",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-28": 98,
+      "2022-10-28": 468,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 1440,
