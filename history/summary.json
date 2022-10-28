@@ -4,19 +4,19 @@
     "url": "https://janik6n.net/",
     "icon": "https://icons.duckduckgo.com/ip3/janik6n.net.ico",
     "slug": "janik6n-net",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 344,
-    "timeDay": 181,
-    "timeWeek": 401,
+    "timeDay": 318,
+    "timeWeek": 408,
     "timeMonth": 466,
     "timeYear": 359,
     "dailyMinutesDown": {
-      "2022-10-28": 0
+      "2022-10-28": 25
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-28": 468,
+      "2022-10-28": 492,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 1440,
