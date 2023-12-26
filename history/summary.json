@@ -4,7 +4,7 @@
     "url": "https://janik6n.net/",
     "icon": "https://icons.duckduckgo.com/ip3/janik6n.net.ico",
     "slug": "janik6n-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.62%",
@@ -16,6 +16,7 @@
     "timeMonth": 344,
     "timeYear": 330,
     "dailyMinutesDown": {
+      "2023-12-26": 0,
       "2023-12-24": 55,
       "2023-12-23": 28,
       "2023-12-22": 56,
